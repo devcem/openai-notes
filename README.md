@@ -7,13 +7,13 @@ This repo will contain my personal notes about OpenAI, GPT-3, and other related 
 - In order to create a useful tool, I'll need certain algorithms, data structures. And notes will be about them.
 
 ## Templates
-- File list search file-method.md
-- File and route method file-route-method.md
-- Find missing/newly added code piece find-missing.md
+- File list search https://github.com/devcem/openai-notes/blob/main/file-list.md
+- File and route method https://github.com/devcem/openai-notes/blob/main/file-route-method.md
+- Find missing/newly added code piece https://github.com/devcem/openai-notes/blob/main/find-missing.md
 
 ## Best Prompt Settings
-- Temperature, 0.37 works better with zonf's prompt
-- Use """ to seperate questions from code
+- Temperature, 0.37 works better with zonf's prompt. When temperature is 0, there is no creativity, use 0 only in the case where you have at least 2-3 lines of code.
+- Use """ to seperate questions from code.
 - code-davinci 002
 
 ## Read

@@ -1,4 +1,4 @@
-# OpenAI Notes (Project:Nerd)
+# OpenAI Notes
 
 This repo will contain my personal notes about OpenAI, GPT-3, and other related topics. The main objective is to have a place to store my notes and to share them with the community. But also creating a "useful" tool that I can use my daily life. Codename is this tool is "Nerd" a discord bot that can write new features, fix bugs and deploy/maintain the codebase.
 
